@@ -1,0 +1,13 @@
+TPoint&&A&&Black&&1&&5&&True&&84&&94
+TPoint&&G&&Black&&1&&5&&True&&102&&7
+TLine&&A G&&Black&&1&&5&&True&&
+TPoint&&F&&Black&&1&&5&&True&&83&&171
+TLine&&A F&&Black&&1&&5&&True&&
+TPoint&&E&&Black&&1&&5&&True&&21&&163
+TLine&&A E&&Black&&1&&5&&True&&
+TPoint&&D&&Black&&1&&5&&True&&25&&18
+TLine&&A D&&Black&&1&&5&&True&&
+TPoint&&C&&Black&&1&&5&&True&&153&&146
+TLine&&A C&&Black&&1&&5&&True&&
+TPoint&&B&&Black&&1&&5&&True&&154&&33
+TLine&&A B&&Black&&1&&5&&True&&
